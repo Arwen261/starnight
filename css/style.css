@@ -46,7 +46,7 @@ a{
 	color: #ffffff;	
 }
 #inner{
-	width: 1118px;
+	width: 100%;/*1118px*/
 	margin: 0 auto;
 }
 #header{
@@ -97,7 +97,7 @@ a{
 	height: 755px;
 }
 .left{
-	width: 700px;
+	width: 700px;/* 62.611806797853309481216457960644%*/
 	margin-top: 88px;
 	margin-left: 171px;
 	position: absolute;
@@ -197,7 +197,7 @@ a{
 	justify-content: space-around;
 }
 .section1{
-	width: 528px;
+	width: 47.227191413237924865831842576029%;/*528px*/
 	height: 285px;
 }
 .section1 h3{
@@ -224,7 +224,7 @@ a{
 	position: absolute;
 }
 #square1{
-	width: 340px;
+	width: 30.41144901610017889087656529517%;/*340px*/
 	height: 345px;
 	background: #f69679;
 	margin-left: 213px;
@@ -233,7 +233,7 @@ a{
 }
 
 .phon1 h3{
-	width: 340px;
+	width: 30.41144901610017889087656529517%;/*340px*/
 	height: 30px;
 	margin-top: 340px;
 	margin-left: 213px;
@@ -241,13 +241,13 @@ a{
 	background: #fff;
 }
 .phon1 p{
-	width: 340px;
+	width: 30.41144901610017889087656529517%;/*340px*/
 	margin-left: 213px;
 	padding-bottom: 60px;
 	background: #fff;
 }
 #square2{
-	width: 340px;
+	width: 30.41144901610017889087656529517%;/*340px*/
 	height: 345px;
 	background: #e8b968;
 	margin-top: -490px;
@@ -256,7 +256,7 @@ a{
 	float: right;
 }
 .phon2 h3{
-	width: 340px;
+	width: 30.41144901610017889087656529517%;/*340px*/
 	height: 30px;
 	margin-top: -150px;
 	margin-left: 613px;
@@ -264,14 +264,14 @@ a{
 	background: #fff;
 }
 .phon2 p{
-	width: 340px;
+	width: 30.41144901610017889087656529517%;/*340px*/
 	margin-left: 613px;
 	padding-bottom: 60px;
 	background: #fff;
 }
 
 .right2{
-	width: 420px;
+	width: 37.567084078711985688729874776386%;/*420px*/
 	height: 165px;
 	position: absolute;
 	top:100px;
@@ -296,7 +296,7 @@ a{
 	flex-wrap: wrap;
 }
 #f_s{
-	width: 620px;
+	width: 55.456171735241502683363148479428%;/*620px*/
 	height:200px ;
 	display: -webkit-flex;
 	display: -moz-flex;
@@ -310,17 +310,17 @@ a{
 	flex-direction: row;
 	justify-content: space-around;
 	padding-top: 80px;
-	margin-left: 174px;
+	margin-left: 15.563506261180679785330948121646%;/*174px*/
 }
 .section2 p{
 	color: #ffffff;
 	padding-left: 10px; 
 }
 #footer ul{
-	width: 110px;
+	width: 110px;/*9.8389982110912343470483005366726%*/
 	height: 200px;
 	padding-top: 80px;
-	padding-left: 450px;
+	padding-left: 40.250447227191413237924865831843%;/*450px*/
 	list-style: none;	
 }
 #footer ul li a{
@@ -334,11 +334,11 @@ a{
 #end{
 	position: relative;
 	top: 380px;
-	right: 700px;
+	right: 700px;/*62.611806797853309481216457960644%*/
 }
 #end img{
 	position: relative;
-	left: 60px;
+	left:60px;/*5.3667262969588550983899821109123%*/
 }
 #end p{
 	font-size: 12px;
